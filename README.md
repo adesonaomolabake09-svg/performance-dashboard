@@ -1,4 +1,7 @@
 # Performance Dashboard
+## Preview
+
+![Dashboard Preview](dashboard-preview.png)
 
 This repository contains an Excel-based Performance Dashboard designed to track and analyze key performance indicators (KPIs).
 

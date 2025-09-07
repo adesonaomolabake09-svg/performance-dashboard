@@ -26,5 +26,4 @@ Created by **Omolabake Adesona**.
 - 📧 Email: adesonaomolabake09@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/omolabake-adesona](https://www.linkedin.com/in/omolabake-adesona/)  
 
-## License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+

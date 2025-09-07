@@ -4,7 +4,7 @@ An Excel-based dashboard designed to track and analyze key performance indicator
 This project provides a simple yet powerful way to visualize performance data for better decision-making.
 
 ## Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](images/dashboard-preview.png)
 
 ## Files
 - **Performance Dashboard.xlsx** — the main dashboard file.
